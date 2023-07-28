@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Raphaelattl0
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---git config --global user.name "Your Name"
+git config --global user.email "yourname@example.com"
+
+
+Raphaelattl0/Raphaelattl0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
